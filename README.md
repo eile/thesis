@@ -1,4 +1,4 @@
-Eyescale
-========
+Thesis
+======
 
-CMake super project for all Eyescale software.
+CMake super project for my master thesis
